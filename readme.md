@@ -2,6 +2,8 @@
 
 This repository aims to provide a generic and explicit approach to the usage of design patterns in Go. In this package, we provide a set of basic generic implementations of various design patterns. These implementations can be easily utilized to incorporate design patterns into your projects in a clear and explicit manner.
 
+This repository is in an experimental state. It was created to generalize certain aspects of the design patterns I use. The idea is to provide a foundation for implementing design patterns. There are some implementations that I find very interesting and others that are less so. I plan to maintain and update this repository as I gain more experience in Go.
+
 Feel free to explore each pattern in detail and understand how they can be applied in your own solutions.
 
 ## What are Design Patterns?
