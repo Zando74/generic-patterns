@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"generic-patterns/creational"
+
+	"github.com/Zando74/generic-patterns/creational"
 )
 
 type Transport interface {

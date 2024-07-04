@@ -1,8 +1,8 @@
 package structural
 
 import (
-	"generic-patterns/behavioral"
-	"generic-patterns/creational"
+	"github.com/Zando74/generic-patterns/behavioral"
+	"github.com/Zando74/generic-patterns/creational"
 )
 
 type NotInitializedExecutionHandler struct{}

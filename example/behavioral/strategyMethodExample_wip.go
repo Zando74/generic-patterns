@@ -1,6 +1,6 @@
 package main
 
-import "generic-patterns/behavioral"
+import "github.com/Zando74/generic-patterns/behavioral"
 
 type Navigator interface {
 	behavioral.StrategyApplicant

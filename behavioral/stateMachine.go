@@ -2,8 +2,9 @@ package behavioral
 
 import (
 	"fmt"
-	"generic-patterns/creational"
 	"strings"
+
+	"github.com/Zando74/generic-patterns/creational"
 )
 
 type State int

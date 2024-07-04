@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"generic-patterns/structural"
+
+	"github.com/Zando74/generic-patterns/structural"
 )
 
 type English string

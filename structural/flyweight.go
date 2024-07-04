@@ -1,6 +1,6 @@
 package structural
 
-import "generic-patterns/behavioral"
+import "github.com/Zando74/generic-patterns/behavioral"
 
 type IntrinsicState interface{}
 

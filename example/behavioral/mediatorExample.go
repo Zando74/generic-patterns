@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"generic-patterns/behavioral"
+
+	"github.com/Zando74/generic-patterns/behavioral"
 )
 
 type StationManager struct {
